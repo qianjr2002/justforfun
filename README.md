@@ -1,5 +1,5 @@
-# justforfun
-lookatname
+# Just for Fun!
+look at the name
 
 创新实践课部分代码
 
